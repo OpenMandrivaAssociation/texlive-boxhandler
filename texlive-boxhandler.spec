@@ -1,12 +1,12 @@
-# revision 21451
+# revision 28031
 # category Package
 # catalog-ctan /macros/latex/contrib/boxhandler
-# catalog-date 2011-02-16 17:12:46 +0100
+# catalog-date 2012-10-18 23:00:43 +0200
 # catalog-license lppl
-# catalog-version 1.22
+# catalog-version 1.30
 Name:		texlive-boxhandler
-Version:	1.22
-Release:	2
+Version:	1.30
+Release:	1
 Summary:	Flexible Captioning and Deferred Box/List Printing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
