@@ -1,12 +1,12 @@
-# revision 28031
+# revision 21451
 # category Package
 # catalog-ctan /macros/latex/contrib/boxhandler
-# catalog-date 2012-10-18 23:00:43 +0200
+# catalog-date 2011-02-16 17:12:46 +0100
 # catalog-license lppl
-# catalog-version 1.30
+# catalog-version 1.22
 Name:		texlive-boxhandler
-Version:	1.30
-Release:	1
+Version:	1.22
+Release:	2
 Summary:	Flexible Captioning and Deferred Box/List Printing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
@@ -62,3 +62,18 @@ with figures and tables appearing in the desired location.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.22-2
++ Revision: 749879
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.22-1
++ Revision: 717977
+- texlive-boxhandler
+- texlive-boxhandler
+- texlive-boxhandler
+- texlive-boxhandler
+- texlive-boxhandler
+
