@@ -6,7 +6,7 @@
 # catalog-version 1.30
 Name:		texlive-boxhandler
 Version:	1.30
-Release:	7
+Release:	8
 Summary:	Flexible Captioning and Deferred Box/List Printing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
