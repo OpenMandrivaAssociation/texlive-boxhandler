@@ -5,9 +5,9 @@ Summary:	Flexible Captioning and Deferred Box/List Printing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.r28031.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.doc.r28031.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.source.r28031.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
