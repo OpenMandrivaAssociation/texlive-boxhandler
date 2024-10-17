@@ -3,7 +3,7 @@ Version:	28031
 Release:	2
 Summary:	Flexible Captioning and Deferred Box/List Printing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/boxhandler
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/boxhandler.doc.r%{version}.tar.xz
